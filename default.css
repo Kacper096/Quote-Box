@@ -86,7 +86,7 @@ body{
     background-color: aliceblue;
     color:#262626;
     text-align: center;
-    line-height:80px !important;
+    line-height:80px !important;    /*!important -> ma pierwszeństwo przed atrybutami w stylach HTML*/
     font-size:40px !important;
 }
 .fas.fas1
